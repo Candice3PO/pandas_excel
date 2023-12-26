@@ -1,0 +1,3 @@
+mkdir name_of_folder
+cd name_of_folder
+home/dq/name_of_folder$ git init
